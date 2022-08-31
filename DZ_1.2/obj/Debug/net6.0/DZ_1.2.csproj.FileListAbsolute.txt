@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\bin\Debug\net6.0\DZ_1.2.exe
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\bin\Debug\net6.0\DZ_1.2.deps.json
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\bin\Debug\net6.0\DZ_1.2.runtimeconfig.json
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\bin\Debug\net6.0\DZ_1.2.dll
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\bin\Debug\net6.0\DZ_1.2.pdb
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.dll
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\refint\DZ_1.2.dll
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.pdb
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\DZ_1.2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Учеба Проектное управление\5. Знакомство с языками програм-я\Семинары\DZ_1\DZ_1.2\obj\Debug\net6.0\ref\DZ_1.2.dll
